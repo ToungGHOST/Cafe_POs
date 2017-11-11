@@ -1,0 +1,9 @@
+c:\users\tanda\documents\visual studio 2015\Projects\Coffee\Coffee\bin\Debug\Coffee.exe.config
+c:\users\tanda\documents\visual studio 2015\Projects\Coffee\Coffee\bin\Debug\Coffee.exe
+c:\users\tanda\documents\visual studio 2015\Projects\Coffee\Coffee\bin\Debug\Coffee.pdb
+c:\users\tanda\documents\visual studio 2015\Projects\Coffee\Coffee\obj\Debug\Coffee.csprojResolveAssemblyReference.cache
+c:\users\tanda\documents\visual studio 2015\Projects\Coffee\Coffee\obj\Debug\Coffee.Form1.resources
+c:\users\tanda\documents\visual studio 2015\Projects\Coffee\Coffee\obj\Debug\Coffee.Properties.Resources.resources
+c:\users\tanda\documents\visual studio 2015\Projects\Coffee\Coffee\obj\Debug\Coffee.csproj.GenerateResource.Cache
+c:\users\tanda\documents\visual studio 2015\Projects\Coffee\Coffee\obj\Debug\Coffee.exe
+c:\users\tanda\documents\visual studio 2015\Projects\Coffee\Coffee\obj\Debug\Coffee.pdb
